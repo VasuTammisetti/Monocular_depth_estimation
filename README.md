@@ -16,4 +16,4 @@ For more details, refer to the original repository where the model was first rel
 ### References
 
 - **Paper**: Vision Transformers for Dense Prediction by Ranftl et al. (2021).
-- **Repository**: [Link to the repository]
+
